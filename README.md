@@ -190,6 +190,4 @@ Blinkit-Sales-Analysis-PowerBI
 # 👨‍💻 Author
 
 **Vedulla Tejaswi**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/tejaswi-vedulla-2952a030b/
