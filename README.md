@@ -88,25 +88,25 @@ The dataset contains Blinkit grocery sales information including:
 
 ## 1️⃣ Performance Overview
 
-![Overview](screenshots/overview.png)
+<img width="766" height="511" alt="image" src="https://github.com/user-attachments/assets/9846185c-dc29-4725-ae87-9ce588878370" />
 
 ---
 
 ## 2️⃣ Business Insights Dashboard
 
-![Sales Analysis](screenshots/sales_analysis.png)
+<img width="763" height="512" alt="image" src="https://github.com/user-attachments/assets/047c1923-03d4-4bd4-b0b4-9d482b19dbf6" />
 
 ---
 
 ## 3️⃣ Drill Through Analysis
 
-![Drill Through](screenshots/drillthrough.png)
+<img width="763" height="509" alt="image" src="https://github.com/user-attachments/assets/59b6807b-7129-4f0e-80cd-eb1445a8bc3e" />
 
 ---
 
 ## 4️⃣ Business Questions Answered
 
-![Business Questions](screenshots/business_questions.png)
+<img width="763" height="510" alt="image" src="https://github.com/user-attachments/assets/b84448e6-ad2e-47b1-9bc8-4ba6277635c2" />
 
 ---
 
